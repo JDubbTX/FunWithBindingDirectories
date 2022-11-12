@@ -12,5 +12,5 @@ end-pi;
 exec sql 
    VALUES UPPER(:inParm) into :inParm;
 
-return inParm ;
-end-proc ;
+return inParm;
+end-proc;
