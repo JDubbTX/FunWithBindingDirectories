@@ -1,5 +1,5 @@
 **Free
-ctl-opt option(*srcstmt:*nodebugio) dftactgrp(*no) actgrp(*caller); 
+ctl-opt option(*srcstmt:*nodebugio); 
 //ctl-opt bnddir('MYBNDDIR');
 
 /copy myPrototype
