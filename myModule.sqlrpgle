@@ -1,6 +1,6 @@
 **free
 
-ctl-opt option(*srcstmt:*nodebugio) nomain
+ctl-opt option(*srcstmt:*nodebugio) nomain;
 
 /copy MyPrototype
 
